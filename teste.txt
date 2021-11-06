@@ -1,2 +1,0 @@
-este arquivo esta sendo criado para testar se depois que o arquivo subir para o repositorio remoto
-e em um proximo branch for adicionado ao gitignore ele sai do repositorio
